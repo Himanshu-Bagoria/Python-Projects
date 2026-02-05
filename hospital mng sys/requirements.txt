@@ -33,7 +33,6 @@ seaborn
 altair
 
 # Database & Storage
-sqlite3-utils
 sqlalchemy
 
 # Authentication & Security
@@ -83,4 +82,5 @@ twilio
 sendgrid
 
 # Advanced Features for New Modules
+
 json5
