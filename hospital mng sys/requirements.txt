@@ -1,0 +1,86 @@
+# Core Streamlit and UI
+streamlit
+streamlit-option-menu
+streamlit-extras
+streamlit-authenticator
+streamlit-card
+streamlit-toggle-switch
+streamlit-webrtc
+streamlit-lottie
+streamlit-image-select
+
+# Data Processing
+pandas
+numpy
+scipy
+
+# Machine Learning & AI
+scikit-learn
+tensorflow
+keras
+joblib
+
+# Computer Vision & Image Processing
+opencv-python
+Pillow
+face-recognition
+dlib
+
+# Data Visualization
+plotly
+matplotlib
+seaborn
+altair
+
+# Database & Storage
+sqlite3-utils
+sqlalchemy
+
+# Authentication & Security
+PyJWT
+bcrypt
+cryptography
+
+# QR Code & Barcode Generation
+qrcode[pil]
+pyzbar
+
+# Audio Processing
+pyttsx3
+SpeechRecognition
+playsound
+pyaudio
+
+# Web & API
+requests
+urllib3
+fastapi
+uvicorn
+
+# Date & Time
+python-dateutil
+pytz
+
+# File Processing
+openpyxl
+xlrd
+PyPDF2
+
+# Utilities
+tqdm
+colorama
+click
+patool
+# Development & Testing
+pytest
+streamlit-debug
+
+# Additional Features
+geopy
+folium
+streamlit-folium
+twilio
+sendgrid
+
+# Advanced Features for New Modules
+json5
