@@ -2,8 +2,7 @@ streamlit
 pandas
 numpy
 plotly
-opencv-python
-face-recognition
+opencv-python-headless
 Pillow
 fpdf2
 matplotlib
@@ -12,3 +11,4 @@ openpyxl
 scikit-learn
 
 altair
+
