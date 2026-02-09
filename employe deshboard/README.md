@@ -2,6 +2,8 @@
 
 A comprehensive Streamlit-based Employee Performance Dashboard that allows HR managers to track, analyze, and manage employee performance with advanced features including face recognition attendance.
 
+ live link 
+        https://employes-dashboard.onrender.com
 ## 🚀 Features
 
 ### Core Features
@@ -247,5 +249,6 @@ The dashboard will be updated regularly with:
 - Enhanced face recognition capabilities
 
 ---
+
 
 *Built with Python, Streamlit, Plotly, OpenCV, and face_recognition*
