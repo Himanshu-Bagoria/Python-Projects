@@ -1,0 +1,52 @@
+[
+  {
+    "id": "D001",
+    "name": "Dr. Meera Singh",
+    "specialization": "Cardiology",
+    "experience": 15,
+    "phone": "+91-9876543220",
+    "email": "dr.meera.singh@hospital.com",
+    "availability": [
+      "Monday",
+      "Wednesday",
+      "Friday"
+    ],
+    "rating": 4.8,
+    "consultation_fee": 1500,
+    "status": "Available"
+  },
+  {
+    "id": "D002",
+    "name": "Dr. Arjun Reddy",
+    "specialization": "Neurology",
+    "experience": 12,
+    "phone": "+91-9876543221",
+    "email": "dr.arjun.reddy@hospital.com",
+    "availability": [
+      "Tuesday",
+      "Thursday",
+      "Saturday"
+    ],
+    "rating": 4.6,
+    "consultation_fee": 1800,
+    "status": "Available"
+  },
+  {
+    "id": "D003",
+    "name": "Dr. Kavita Gupta",
+    "specialization": "Pediatrics",
+    "experience": 8,
+    "phone": "+91-9876543222",
+    "email": "dr.kavita.gupta@hospital.com",
+    "availability": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday"
+    ],
+    "rating": 4.9,
+    "consultation_fee": 1200,
+    "status": "Available"
+  }
+]

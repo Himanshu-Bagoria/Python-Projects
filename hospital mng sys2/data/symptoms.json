@@ -1,0 +1,13 @@
+[
+  {
+    "patient_name": "ghu",
+    "symptoms": [
+      "Headache"
+    ],
+    "severity": "Mild",
+    "diagnosis": "",
+    "treatment": "",
+    "timestamp": "2025-08-23T13:11:25.602366",
+    "id": 1
+  }
+]

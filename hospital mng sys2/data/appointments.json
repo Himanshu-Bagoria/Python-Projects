@@ -1,0 +1,46 @@
+[
+  {
+    "id": "A001",
+    "patient_id": "P001",
+    "doctor_id": "D001",
+    "date": "2024-08-25",
+    "time": "10:00",
+    "type": "Consultation",
+    "status": "Scheduled",
+    "notes": "Follow-up for diabetes management",
+    "patient_name": "Unknown Patient",
+    "timestamp": "2025-08-23T13:09:46.141521"
+  },
+  {
+    "id": "A002",
+    "patient_id": "P002",
+    "doctor_id": "D003",
+    "date": "2024-08-26",
+    "time": "14:30",
+    "type": "Check-up",
+    "status": "Scheduled",
+    "notes": "Regular health check-up",
+    "patient_name": "Unknown Patient",
+    "timestamp": "2025-08-23T13:09:46.141541"
+  },
+  {
+    "patient_name": "xyz",
+    "date": "2025-08-23",
+    "time": "12:41",
+    "doctor": "Dr. Smith",
+    "reason": "FOR NORMAL CHEKUP",
+    "status": "Scheduled",
+    "timestamp": "2025-08-23T12:41:52.006945",
+    "id": 3
+  },
+  {
+    "patient_name": "ghu",
+    "date": "2025-08-23",
+    "time": "13:09",
+    "doctor": "Dr. Williams",
+    "reason": "fever",
+    "status": "Scheduled",
+    "timestamp": "2025-08-23T13:09:46.141563",
+    "id": 4
+  }
+]

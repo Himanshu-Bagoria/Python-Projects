@@ -1,0 +1,13 @@
+[
+  {
+    "patient_name": "xyz",
+    "service": "headache",
+    "amount": 100.0,
+    "insurance_coverage": 80,
+    "patient_responsibility": 19.999999999999996,
+    "payment_status": "Paid",
+    "notes": "cash",
+    "timestamp": "2025-08-23T12:50:05.611165",
+    "id": 1
+  }
+]

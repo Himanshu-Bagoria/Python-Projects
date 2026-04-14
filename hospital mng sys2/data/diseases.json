@@ -1,0 +1,52 @@
+{
+  "diseases": [
+    {
+      "id": 1,
+      "name": "Common Cold",
+      "symptoms": ["Fever", "Cough", "Fatigue"],
+      "severity": "Low",
+      "description": "Viral infection of the upper respiratory tract",
+      "treatment": "Rest, fluids, over-the-counter medications"
+    },
+    {
+      "id": 2,
+      "name": "Influenza",
+      "symptoms": ["Fever", "Cough", "Fatigue", "Headache"],
+      "severity": "Medium",
+      "description": "Viral infection affecting the respiratory system",
+      "treatment": "Rest, fluids, antiviral medications if prescribed"
+    },
+    {
+      "id": 3,
+      "name": "Migraine",
+      "symptoms": ["Headache", "Nausea", "Dizziness"],
+      "severity": "Medium",
+      "description": "Severe recurring headache often accompanied by other symptoms",
+      "treatment": "Pain relievers, rest in dark room, prescription medications"
+    },
+    {
+      "id": 4,
+      "name": "Hypertension",
+      "symptoms": ["Headache", "Dizziness"],
+      "severity": "High",
+      "description": "High blood pressure",
+      "treatment": "Lifestyle changes, prescription medications"
+    },
+    {
+      "id": 5,
+      "name": "Pneumonia",
+      "symptoms": ["Fever", "Cough", "Shortness of Breath", "Chest Pain"],
+      "severity": "High",
+      "description": "Infection that inflames air sacs in lungs",
+      "treatment": "Antibiotics, rest, hospitalization if severe"
+    },
+    {
+      "id": 6,
+      "name": "Heart Attack",
+      "symptoms": ["Chest Pain", "Shortness of Breath", "Nausea"],
+      "severity": "Critical",
+      "description": "Blockage of blood flow to the heart",
+      "treatment": "Emergency medical care, medications, procedures"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+[
+  {
+    "patient_name": "xyz",
+    "auth_method": "Traditional Login",
+    "notes": "",
+    "status": "Authenticated",
+    "timestamp": "2025-08-23T12:40:38.220380",
+    "id": 1
+  },
+  {
+    "patient_name": "ghu",
+    "auth_method": "Face Recognition",
+    "notes": "",
+    "status": "Authenticated",
+    "timestamp": "2025-08-23T13:10:33.697376",
+    "id": 2
+  }
+]

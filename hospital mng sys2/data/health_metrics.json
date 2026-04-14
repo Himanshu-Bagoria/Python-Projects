@@ -1,0 +1,11 @@
+[
+  {
+    "patient_name": "xyz",
+    "heart_rate": 45,
+    "blood_pressure": "120/80",
+    "temperature": 98.6,
+    "notes": "",
+    "timestamp": "2025-08-23T12:43:02.931183",
+    "id": 2
+  }
+]

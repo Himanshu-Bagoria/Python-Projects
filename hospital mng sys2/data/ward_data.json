@@ -1,0 +1,36 @@
+{
+  "ward_101": {
+    "bed_1": {
+      "occupied": true,
+      "patient_id": "P001",
+      "temperature": 22.5,
+      "noise_level": 45
+    },
+    "bed_2": {
+      "occupied": false,
+      "patient_id": null,
+      "temperature": 23.0,
+      "noise_level": 40
+    },
+    "bed_3": {
+      "occupied": true,
+      "patient_id": "P002",
+      "temperature": 22.8,
+      "noise_level": 50
+    }
+  },
+  "ward_102": {
+    "bed_1": {
+      "occupied": false,
+      "patient_id": null,
+      "temperature": 22.3,
+      "noise_level": 35
+    },
+    "bed_2": {
+      "occupied": true,
+      "patient_id": "P003",
+      "temperature": 22.7,
+      "noise_level": 42
+    }
+  }
+}

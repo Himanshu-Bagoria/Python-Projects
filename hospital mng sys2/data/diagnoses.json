@@ -1,0 +1,12 @@
+[
+  {
+    "patient_name": "xyz",
+    "diagnosis": "brain",
+    "doctor": "dr himanshu",
+    "date_diagnosed": "2025-08-23",
+    "symptoms": "headache",
+    "treatment_plan": "4 weeks",
+    "timestamp": "2025-08-23T12:45:39.865477",
+    "id": 2
+  }
+]

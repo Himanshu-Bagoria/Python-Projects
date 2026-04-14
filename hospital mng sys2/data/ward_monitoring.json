@@ -1,0 +1,13 @@
+[
+  {
+    "patient_name": "xyz",
+    "room_number": "102",
+    "ward_type": "General",
+    "admission_date": "2025-08-23",
+    "expected_discharge": "2025-08-23",
+    "status": "Under Observation",
+    "notes": "",
+    "timestamp": "2025-08-23T12:50:55.658610",
+    "id": 1
+  }
+]
