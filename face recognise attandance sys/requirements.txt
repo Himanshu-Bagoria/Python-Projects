@@ -1,9 +1,0 @@
-opencv-python
-deepface
-streamlit
-pandas
-plotly
-cryptography
-tensorflow>=2.16
-tf-keras>=2.16
-deepface>=0.0.93
