@@ -1,0 +1,12 @@
+employee_id,name,email,department,role,hire_date,salary,phone,address
+E001,John Smith,john.smith@company.com,Engineering,Software Engineer,2023-01-15,75000,555-0101,123 Main St
+E002,Sarah Johnson,sarah.johnson@company.com,Marketing,Marketing Manager,2022-03-20,68000,555-0102,456 Oak Ave
+E003,Michael Brown,michael.brown@company.com,Sales,Sales Representative,2023-06-10,55000,555-0103,789 Pine Rd
+E004,Emily Davis,emily.davis@company.com,HR,HR Specialist,2022-11-05,62000,555-0104,321 Elm St
+E005,David Wilson,david.wilson@company.com,Engineering,Senior Developer,2021-08-12,85000,555-0105,654 Maple Dr
+E006,Lisa Anderson,lisa.anderson@company.com,Finance,Financial Analyst,2023-02-28,70000,555-0106,987 Cedar Ln
+E007,Robert Taylor,robert.taylor@company.com,Marketing,Digital Marketing Specialist,2022-09-18,58000,555-0107,147 Birch St
+E008,Jennifer Martinez,jennifer.martinez@company.com,Sales,Sales Manager,2021-12-03,78000,555-0108,258 Spruce Ave
+E009,Christopher Lee,christopher.lee@company.com,Engineering,DevOps Engineer,2023-04-14,82000,555-0109,369 Willow Rd
+E010,Amanda White,amanda.white@company.com,HR,HR Manager,2022-07-22,72000,555-0110,741 Ash St
+959,Himanshu Bagoria,himanshubagoria155@gmail.com,HR,supervisior,2026-02-09,50000,4597752612,bgdtyjxgbhhvnk

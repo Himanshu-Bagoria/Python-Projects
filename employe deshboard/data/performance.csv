@@ -1,0 +1,26 @@
+employee_id,date,tasks_completed,quality_score,productivity_score,comments
+E001,2024-01-15,8,8.5,7.8,Completed assigned development tasks
+E001,2024-01-16,7,9.0,8.2,Code review and bug fixes
+E001,2024-01-17,9,8.0,7.5,Feature development work
+E001,2024-01-18,6,8.5,7.9,Database optimization
+E001,2024-01-19,8,9.0,8.4,API development and testing
+E002,2024-01-15,6,7.5,6.8,Campaign planning and content creation
+E002,2024-01-16,5,8.0,7.2,Social media management
+E002,2024-01-17,7,7.0,6.5,Market research analysis
+E002,2024-01-18,6,7.5,6.9,Campaign execution
+E002,2024-01-19,8,8.0,7.6,Customer engagement activities
+E003,2024-01-15,12,6.5,6.2,Client meetings and follow-ups
+E003,2024-01-16,10,7.0,6.8,Lead generation calls
+E003,2024-01-17,15,6.0,5.8,Contract negotiations
+E003,2024-01-18,8,7.5,7.1,Customer relationship management
+E003,2024-01-19,11,6.5,6.3,Prospecting new clients
+E004,2024-01-15,4,8.5,7.9,Recruitment process
+E004,2024-01-16,3,9.0,8.3,Employee onboarding
+E004,2024-01-17,5,8.0,7.5,Training sessions
+E004,2024-01-18,4,8.5,8.0,Performance reviews
+E004,2024-01-19,6,9.0,8.7,Policy development
+E005,2024-01-15,10,9.5,9.2,Architecture design and review
+E005,2024-01-16,8,9.0,8.8,Technical leadership tasks
+E005,2024-01-17,12,9.5,9.4,Code mentoring and system optimization
+E005,2024-01-18,9,9.0,8.9,Mentoring junior developers
+E005,2024-01-19,11,9.5,9.3,System security improvements
